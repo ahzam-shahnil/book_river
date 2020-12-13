@@ -1,9 +1,8 @@
 # Book River
 
 Simple Book Record Application with database connected.
-![](Book River/images/BookRiver.gif)
-## Getting Started
 
+## Getting Started
 This project is a starting point for a Flutter application.
 A few resources to get you started if this is your first Flutter project:
 
