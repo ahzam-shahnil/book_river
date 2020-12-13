@@ -1,6 +1,7 @@
-# employee_record
+#Book River
 
-A new Flutter project.
+Simple Book Record app
+
 
 ## Getting Started
 
